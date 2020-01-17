@@ -10,3 +10,6 @@ end
 def print_first_directors_movie_titles
   pp pretty_print_nds(directors_database)  
 end
+
+
+print_first_directors_movie_titles
